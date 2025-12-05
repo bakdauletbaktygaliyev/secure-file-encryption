@@ -227,12 +227,6 @@ echo "Secret message" > test.txt
 diff test.txt test.txt.encrypted.decrypted
 ```
 
-## 👥 Team Members
-
-- **[Your Name]** (GitHub: @username1) - Cryptography & Core Implementation
-- **[Member 2]** (GitHub: @username2) - Key Management & CLI
-- **[Member 3]** (GitHub: @username3) - Documentation & Testing
-
 ## 📚 Dependencies
 
 - `github.com/spf13/cobra` - CLI framework
@@ -281,7 +275,7 @@ This is an educational project for MAT364 Cryptography course. While it implemen
 
 For questions or issues, please contact:
 - Instructor: adil.akhmetov@sdu.edu.kz
-- [Your contact information]
+- Author: bakdauletbaktygaliyev@gmail.com
 
 ## 🙏 Acknowledgments
 
